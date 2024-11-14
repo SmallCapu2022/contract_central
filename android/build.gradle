@@ -1,3 +1,7 @@
+classpath 'com.google.gms:google-services:4.3.15'  // Vérifie la dernière version disponible
+apply plugin: 'com.google.gms.google-services'
+
+
 allprojects {
     repositories {
         google()

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76707753417",
+    "project_id": "contractcentral-41c9d",
+    "storage_bucket": "contractcentral-41c9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76707753417:android:2af4ea5215823a663a0c18",
+        "android_client_info": {
+          "package_name": "com.contract"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxpRyGqJpa2KYoaJJNnERKD-5rdiSU-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76707753417:android:771b59f279c2ec2d3a0c18",
+        "android_client_info": {
+          "package_name": "com.example.contractapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxpRyGqJpa2KYoaJJNnERKD-5rdiSU-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
